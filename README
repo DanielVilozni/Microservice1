@@ -1,0 +1,1 @@
+Microservice 1: A REST API that receives requests, validates tokens, and sends messages to an SQS queue.
